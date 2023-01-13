@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="primary">#1c1c1c</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Feelvibe</string>
+    <string name="default_web_client_id" translatable="false">744789146995-pnmfdcq9bq7abkp5vaec37p82n2hd2m1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">744789146995</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPufCIGesoihFpXgDnpxQ-2Tg-0LMweU4</string>
+    <string name="google_app_id" translatable="false">1:744789146995:android:b5b47f67caa15ebd669906</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPufCIGesoihFpXgDnpxQ-2Tg-0LMweU4</string>
+    <string name="google_storage_bucket" translatable="false">feelvibe-mobile.appspot.com</string>
+    <string name="menu_gallery">Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Playlists</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="project_id" translatable="false">feelvibe-mobile</string>
+    <string name="title_activity_drawer">Drawer_Activity</string>
+    <style name="Theme.Feelvibe" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.Feelvibe.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Feelvibe.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Feelvibe.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

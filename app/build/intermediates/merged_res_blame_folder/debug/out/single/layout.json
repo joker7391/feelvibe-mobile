@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/activity_signup.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/activity_drawer.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/activity_drawer.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/fragment_slideshow.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/app_bar_drawer.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/app_bar_drawer.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/content_drawer.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/content_drawer.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/fragment_gallery.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/activity_forgot_password.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/activity_user_profile.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/activity_login.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/nav_header_drawer.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/nav_header_drawer.xml"
+    },
+    {
+        "merged": "com.example.feelvibe.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "com.example.feelvibe.app-main-47:/layout/fragment_home.xml"
+    }
+]

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    tools:context=".Signup">
+
+    <!--    <EditText-->
+<!--        android:id="@+id/txtFullNameReg"-->
+<!--        android:layout_width="274dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_marginStart="82dp"-->
+<!--        android:layout_marginTop="197dp"-->
+<!--        android:layout_marginEnd="55dp"-->
+<!--        android:hint="Full Name"-->
+<!--        android:textColorHint="@color/white"-->
+<!--        android:textSize="24sp" />-->
+
+    <TextView
+        android:layout_width="208dp"
+        android:layout_height="75dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginEnd="155dp"
+        android:gravity="center"
+        android:text="Signup"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:textStyle="bold"
+
+        />
+
+    <Button
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="272dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="591dp"
+        android:layout_marginEnd="51dp"
+        android:hint="Already have an account?"
+        android:textColorHint="@color/white"
+        android:textSize="15sp"
+        android:id="@+id/btnAlreadyHaveAnAccount"
+        />
+
+    <EditText
+        android:id="@+id/txtEmailReg"
+        android:layout_width="274dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="256dp"
+        android:layout_marginEnd="54dp"
+        android:hint="Email"
+        android:textColorHint="@color/white"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:inputType="textEmailAddress"
+        />
+
+    <EditText
+        android:id="@+id/txtPasswordReg"
+        android:layout_width="275dp"
+        android:layout_height="64dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="317dp"
+        android:layout_marginEnd="54dp"
+        android:hint="Password"
+        android:textColorHint="@color/white"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:inputType="textPassword"
+        />
+
+    <EditText
+        android:id="@+id/txtConfirmPassword"
+        android:layout_width="276dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="401dp"
+        android:layout_marginEnd="53dp"
+        android:hint="Confirm Password"
+        android:textColorHint="@color/white"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="276dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="84dp"
+        android:layout_marginTop="528dp"
+        android:layout_marginEnd="50dp"
+        android:hint="SUBMIT"
+        android:textColorHint="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
